@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654060244736",
+    "project_id": "worldtalk-ae362",
+    "storage_bucket": "worldtalk-ae362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654060244736:android:882e9722e01ecd0ff1ade5",
+        "android_client_info": {
+          "package_name": "com.example.world_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuS9Jd9_12h4oNbF6IpV_JH_S0zE4dA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

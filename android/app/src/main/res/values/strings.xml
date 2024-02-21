@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="facebook_app_id">400791139073476</string>
+<string name="fb_login_protocol_scheme">fb400791139073476</string>
+<string name="facebook_client_token">a2c378bf3d27e288c932d353ea11264d</string>
+<string name="app_name">World Talk</string>
+ <string name="default_notification_channel_id">com.example.chat_app.urgent</string>
+
+</resources>
