@@ -7,10 +7,11 @@ A new Flutter project.
 
 <img src="https://github.com/Leo-Development/world_talk/assets/160739845/e50eb0d1-fd37-4906-9311-db0936a8a3de" width="320" height="568">
 
+<img src="https://github.com/Leo-Development/world_talk/assets/160739845/55c53ecc-b84b-4d88-bfb7-7f8b4a0da088" width="320" height="568">
 
 ## About the app
 
-This project is built using flutter. It is a basic chat app wtih more features to be added soon.
+This project is built using flutter. It is a basic chat app wtih authentication. It uses firebase as its backend and its API'S.More features to be added soon.
 
-A few resources to get you started if this is your first Flutter project:
+
 
