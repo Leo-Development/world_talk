@@ -1,6 +1,6 @@
 # world_talk
 
-A new Flutter project.
+
 <img src="https://github.com/Leo-Development/world_talk/assets/160739845/c08e8076-a7a0-4004-a47a-c9b87c1a4ae0" width="320" height="568">
 
 <img src="https://github.com/Leo-Development/world_talk/assets/160739845/53ffe201-05da-40f5-b407-ad87893df22b" width="320" height="568">
