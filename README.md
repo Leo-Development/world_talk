@@ -1,20 +1,16 @@
 # world_talk
 
 A new Flutter project.
-<img src="https://github.com/Leo-Development/world_talk/assets/160739845/53ffe201-05da-40f5-b407-ad87893df22b" width="320" height="568">
 <img src="https://github.com/Leo-Development/world_talk/assets/160739845/c08e8076-a7a0-4004-a47a-c9b87c1a4ae0" width="320" height="568">
+
+<img src="https://github.com/Leo-Development/world_talk/assets/160739845/53ffe201-05da-40f5-b407-ad87893df22b" width="320" height="568">
+
 <img src="https://github.com/Leo-Development/world_talk/assets/160739845/e50eb0d1-fd37-4906-9311-db0936a8a3de" width="320" height="568">
 
 
-## Getting Started
+## About the app
 
-This project is a starting point for a Flutter application.
+This project is built using flutter. It is a basic chat app wtih more features to be added soon.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
